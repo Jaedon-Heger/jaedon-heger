@@ -4,5 +4,5 @@
 
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=jaedon-heger&show_icons=true&theme=vue-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaedon-heger&theme=vue-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaedon-heger&theme=vue-dark&layout=compact)
 
